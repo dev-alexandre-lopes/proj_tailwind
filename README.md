@@ -9,8 +9,10 @@ Este projeto via utilizar os recursos do **_Framework TailwindCSS_** para recria
 
 [Website](https://www.spotify.com/br/) - Website Oficial do Spotify
 
-
 [Repositório](https://github.com/tailwindcss/tailwindcss) - Repositório Oficial do Framework TailwindCSS.
+
+[Repositório](https://github.com/FortAwesome/Font-Awesome?utm_source=cdnjs&utm_medium=cdnjs_link&utm_campaign=cdnjs_library) - Repositório Oficial do Font-Awesome.
+
 
 ### Planejamento:
 
