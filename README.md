@@ -14,3 +14,7 @@ Este projeto via utilizar os recursos do **_Framework TailwindCSS_** para recria
 
 ### Planejamento:
 
+- [x] Estudo do site: fontes, cores, etc;
+- []  Confiaguração do Tailwind e início do projeto;
+- []  Layout do site;
+
