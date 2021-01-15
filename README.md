@@ -17,5 +17,13 @@ Este projeto via utilizar os recursos do **_Framework TailwindCSS_** para recria
 - [x] Estudo do site: fontes, cores, etc;
 - [x] Configuração do Tailwind e início do projeto;
 - [ ] Início do Layout do site;
+- [ ] Criação da Página Home;
+- [ ] Criação da Página Premium;
+- [ ] Criação da Página Suporte;
+- [ ] Criação da Página Baixar;
+- [ ] Criação da Página Inscrever-se;
+- [ ] Criação da Página Entrar;
+
+
  
 
